@@ -7,6 +7,8 @@ from sklearn.pipeline import Pipeline
 
 
 train_data = []
+target_data = []
+test_data = []
 with open('../train_in.csv', 'rt') as csvfile:
 	reader = csv.reader(csvfile, delimiter=',')
 	next(reader)
@@ -14,43 +16,29 @@ with open('../train_in.csv', 'rt') as csvfile:
 		train_data.append(row[1])
 
 
-vectorizer = CountVectorizer()
-X_train_counts = vectorizer.fit_transform(train_data)
-
-
-target_data = []
 with open('../train_out.csv', 'rt') as csvfile:
 	reader = csv.reader(csvfile, delimiter=',')
 	next(reader)
 	for row in reader:
 		target_data.append(row[1])
 
-text_clf = Pipeline([('vect', CountVectorizer()),
-                     ('tfidf', TfidfTransformer()),
-                     ('clf', MultinomialNB()),
- ])
 
-
-
-# meanVal = np.mean(train_data == target_data)
-# print(meanVal) 
-
-
-test_data = []
 with open('../test_in.csv', 'rt') as csvfile:
 	reader = csv.reader(csvfile, delimiter=',')
 	next(reader)
 	for row in reader:
 		test_data.append(row[1])
 
+
+vectorizer = CountVectorizer()
+X_train_counts = vectorizer.fit_transform(train_data)
+
 clf = MultinomialNB().fit(X_train_counts, target_data)
-
-
 
 X_test_counts = vectorizer.transform(test_data)
 predicted = clf.predict(X_test_counts)
-print(X_test_counts.shape)
-print(predicted.shape)
+# print(X_test_counts.shape)
+# print(predicted.shape)
 
 f = open('predictions.csv','w')
 f.write("id,category\n")
