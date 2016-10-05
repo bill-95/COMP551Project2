@@ -238,7 +238,7 @@ id,category
 236,stat
 237,cs
 238,physics
-239,math
+239,cs
 240,stat
 241,physics
 242,physics
@@ -283,7 +283,7 @@ id,category
 281,stat
 282,cs
 283,math
-284,stat
+284,physics
 285,math
 286,physics
 287,physics
@@ -468,7 +468,7 @@ id,category
 466,math
 467,cs
 468,math
-469,cs
+469,math
 470,cs
 471,cs
 472,cs
@@ -502,7 +502,7 @@ id,category
 500,stat
 501,stat
 502,stat
-503,cs
+503,stat
 504,cs
 505,cs
 506,math
@@ -590,7 +590,7 @@ id,category
 588,math
 589,cs
 590,cs
-591,physics
+591,cs
 592,math
 593,math
 594,physics
@@ -625,7 +625,7 @@ id,category
 623,math
 624,cs
 625,physics
-626,cs
+626,stat
 627,physics
 628,physics
 629,stat
@@ -697,7 +697,7 @@ id,category
 695,physics
 696,cs
 697,stat
-698,math
+698,cs
 699,math
 700,math
 701,cs
@@ -801,7 +801,7 @@ id,category
 799,stat
 800,math
 801,cs
-802,cs
+802,stat
 803,cs
 804,cs
 805,cs
@@ -1267,7 +1267,7 @@ id,category
 1265,math
 1266,cs
 1267,physics
-1268,stat
+1268,cs
 1269,math
 1270,cs
 1271,physics
@@ -1303,7 +1303,7 @@ id,category
 1301,cs
 1302,cs
 1303,stat
-1304,cs
+1304,stat
 1305,math
 1306,physics
 1307,math
@@ -1361,7 +1361,7 @@ id,category
 1359,cs
 1360,math
 1361,cs
-1362,stat
+1362,cs
 1363,stat
 1364,cs
 1365,math
@@ -1611,7 +1611,7 @@ id,category
 1609,physics
 1610,physics
 1611,cs
-1612,stat
+1612,cs
 1613,math
 1614,math
 1615,stat
@@ -1639,7 +1639,7 @@ id,category
 1637,cs
 1638,physics
 1639,cs
-1640,stat
+1640,cs
 1641,math
 1642,math
 1643,cs
@@ -1889,7 +1889,7 @@ id,category
 1887,cs
 1888,math
 1889,cs
-1890,stat
+1890,cs
 1891,cs
 1892,math
 1893,stat
@@ -1945,7 +1945,7 @@ id,category
 1943,cs
 1944,math
 1945,stat
-1946,stat
+1946,cs
 1947,stat
 1948,cs
 1949,cs
@@ -2063,10 +2063,10 @@ id,category
 2061,physics
 2062,cs
 2063,math
-2064,stat
+2064,math
 2065,stat
 2066,math
-2067,cs
+2067,stat
 2068,math
 2069,math
 2070,cs
@@ -2202,7 +2202,7 @@ id,category
 2200,stat
 2201,cs
 2202,stat
-2203,stat
+2203,cs
 2204,physics
 2205,cs
 2206,cs
@@ -2274,7 +2274,7 @@ id,category
 2272,physics
 2273,cs
 2274,cs
-2275,physics
+2275,cs
 2276,math
 2277,math
 2278,math
@@ -2313,7 +2313,7 @@ id,category
 2311,cs
 2312,cs
 2313,cs
-2314,cs
+2314,physics
 2315,physics
 2316,stat
 2317,physics
@@ -2349,7 +2349,7 @@ id,category
 2347,cs
 2348,cs
 2349,cs
-2350,stat
+2350,physics
 2351,physics
 2352,cs
 2353,physics
@@ -2406,7 +2406,7 @@ id,category
 2404,math
 2405,stat
 2406,cs
-2407,math
+2407,cs
 2408,math
 2409,cs
 2410,physics
@@ -2478,7 +2478,7 @@ id,category
 2476,math
 2477,cs
 2478,math
-2479,stat
+2479,cs
 2480,math
 2481,math
 2482,cs
@@ -2492,7 +2492,7 @@ id,category
 2490,stat
 2491,stat
 2492,cs
-2493,stat
+2493,cs
 2494,physics
 2495,math
 2496,physics
@@ -2569,7 +2569,7 @@ id,category
 2567,math
 2568,cs
 2569,cs
-2570,stat
+2570,math
 2571,physics
 2572,math
 2573,cs
@@ -2586,7 +2586,7 @@ id,category
 2584,cs
 2585,cs
 2586,cs
-2587,cs
+2587,stat
 2588,physics
 2589,cs
 2590,math
@@ -2638,7 +2638,7 @@ id,category
 2636,math
 2637,cs
 2638,cs
-2639,physics
+2639,cs
 2640,physics
 2641,cs
 2642,math
@@ -2652,7 +2652,7 @@ id,category
 2650,math
 2651,math
 2652,math
-2653,stat
+2653,cs
 2654,math
 2655,math
 2656,stat
@@ -2689,7 +2689,7 @@ id,category
 2687,cs
 2688,physics
 2689,physics
-2690,stat
+2690,cs
 2691,physics
 2692,math
 2693,math
@@ -2740,7 +2740,7 @@ id,category
 2738,math
 2739,cs
 2740,cs
-2741,stat
+2741,cs
 2742,math
 2743,math
 2744,physics
@@ -2836,10 +2836,10 @@ id,category
 2834,math
 2835,math
 2836,math
-2837,stat
+2837,cs
 2838,math
 2839,stat
-2840,cs
+2840,stat
 2841,cs
 2842,physics
 2843,physics
@@ -2894,7 +2894,7 @@ id,category
 2892,physics
 2893,cs
 2894,math
-2895,cs
+2895,math
 2896,physics
 2897,cs
 2898,stat
@@ -3061,7 +3061,7 @@ id,category
 3059,cs
 3060,cs
 3061,cs
-3062,stat
+3062,cs
 3063,cs
 3064,cs
 3065,math
@@ -3085,7 +3085,7 @@ id,category
 3083,math
 3084,math
 3085,math
-3086,stat
+3086,cs
 3087,math
 3088,stat
 3089,math
@@ -3142,10 +3142,10 @@ id,category
 3140,cs
 3141,math
 3142,math
-3143,cs
+3143,stat
 3144,math
 3145,cs
-3146,math
+3146,cs
 3147,physics
 3148,cs
 3149,stat
@@ -3156,7 +3156,7 @@ id,category
 3154,cs
 3155,stat
 3156,stat
-3157,physics
+3157,cs
 3158,math
 3159,math
 3160,stat
@@ -3346,7 +3346,7 @@ id,category
 3344,cs
 3345,cs
 3346,math
-3347,math
+3347,cs
 3348,cs
 3349,cs
 3350,cs
@@ -3371,7 +3371,7 @@ id,category
 3369,stat
 3370,cs
 3371,stat
-3372,stat
+3372,cs
 3373,cs
 3374,cs
 3375,physics
@@ -3397,7 +3397,7 @@ id,category
 3395,cs
 3396,math
 3397,stat
-3398,cs
+3398,stat
 3399,math
 3400,cs
 3401,cs
@@ -3448,12 +3448,12 @@ id,category
 3446,math
 3447,cs
 3448,cs
-3449,cs
+3449,stat
 3450,stat
 3451,stat
 3452,physics
 3453,physics
-3454,stat
+3454,cs
 3455,math
 3456,stat
 3457,cs
@@ -3517,12 +3517,12 @@ id,category
 3515,cs
 3516,stat
 3517,math
-3518,cs
+3518,stat
 3519,physics
 3520,stat
 3521,cs
 3522,math
-3523,physics
+3523,cs
 3524,math
 3525,cs
 3526,cs
@@ -3531,7 +3531,7 @@ id,category
 3529,cs
 3530,math
 3531,cs
-3532,stat
+3532,math
 3533,math
 3534,cs
 3535,math
@@ -3634,7 +3634,7 @@ id,category
 3632,math
 3633,physics
 3634,cs
-3635,cs
+3635,stat
 3636,math
 3637,math
 3638,physics
@@ -3674,7 +3674,7 @@ id,category
 3672,stat
 3673,cs
 3674,math
-3675,physics
+3675,cs
 3676,stat
 3677,physics
 3678,stat
@@ -3717,7 +3717,7 @@ id,category
 3715,math
 3716,cs
 3717,physics
-3718,math
+3718,cs
 3719,math
 3720,math
 3721,math
@@ -3884,7 +3884,7 @@ id,category
 3882,physics
 3883,cs
 3884,math
-3885,stat
+3885,cs
 3886,cs
 3887,math
 3888,math
@@ -3948,7 +3948,7 @@ id,category
 3946,cs
 3947,stat
 3948,math
-3949,math
+3949,cs
 3950,stat
 3951,math
 3952,math
@@ -4056,7 +4056,7 @@ id,category
 4054,physics
 4055,cs
 4056,math
-4057,cs
+4057,math
 4058,math
 4059,math
 4060,cs
@@ -4108,7 +4108,7 @@ id,category
 4106,cs
 4107,math
 4108,physics
-4109,cs
+4109,physics
 4110,cs
 4111,physics
 4112,stat
@@ -4225,7 +4225,7 @@ id,category
 4223,math
 4224,cs
 4225,cs
-4226,cs
+4226,math
 4227,physics
 4228,cs
 4229,math
@@ -4247,7 +4247,7 @@ id,category
 4245,cs
 4246,cs
 4247,math
-4248,stat
+4248,cs
 4249,math
 4250,math
 4251,math
@@ -4316,7 +4316,7 @@ id,category
 4314,math
 4315,math
 4316,math
-4317,cs
+4317,stat
 4318,stat
 4319,physics
 4320,cs
@@ -4344,7 +4344,7 @@ id,category
 4342,math
 4343,math
 4344,cs
-4345,physics
+4345,cs
 4346,cs
 4347,math
 4348,physics
@@ -4398,7 +4398,7 @@ id,category
 4396,cs
 4397,stat
 4398,math
-4399,cs
+4399,physics
 4400,cs
 4401,physics
 4402,stat
@@ -4416,7 +4416,7 @@ id,category
 4414,cs
 4415,cs
 4416,math
-4417,cs
+4417,stat
 4418,math
 4419,stat
 4420,stat
@@ -4466,7 +4466,7 @@ id,category
 4464,math
 4465,cs
 4466,stat
-4467,cs
+4467,stat
 4468,cs
 4469,cs
 4470,physics
@@ -4484,7 +4484,7 @@ id,category
 4482,math
 4483,stat
 4484,cs
-4485,cs
+4485,stat
 4486,math
 4487,physics
 4488,stat
@@ -4539,10 +4539,10 @@ id,category
 4537,stat
 4538,cs
 4539,cs
-4540,stat
+4540,cs
 4541,math
 4542,cs
-4543,math
+4543,physics
 4544,cs
 4545,stat
 4546,math
@@ -4578,7 +4578,7 @@ id,category
 4576,cs
 4577,math
 4578,math
-4579,math
+4579,cs
 4580,cs
 4581,physics
 4582,physics
@@ -4592,9 +4592,9 @@ id,category
 4590,cs
 4591,cs
 4592,stat
-4593,cs
+4593,math
 4594,cs
-4595,cs
+4595,stat
 4596,physics
 4597,cs
 4598,cs
@@ -4779,7 +4779,7 @@ id,category
 4777,physics
 4778,physics
 4779,math
-4780,stat
+4780,math
 4781,cs
 4782,physics
 4783,math
@@ -4839,7 +4839,7 @@ id,category
 4837,math
 4838,cs
 4839,math
-4840,cs
+4840,stat
 4841,cs
 4842,stat
 4843,physics
@@ -4892,7 +4892,7 @@ id,category
 4890,math
 4891,physics
 4892,cs
-4893,stat
+4893,cs
 4894,physics
 4895,math
 4896,physics
@@ -5053,7 +5053,7 @@ id,category
 5051,stat
 5052,cs
 5053,cs
-5054,cs
+5054,stat
 5055,physics
 5056,math
 5057,math
@@ -5149,7 +5149,7 @@ id,category
 5147,math
 5148,math
 5149,cs
-5150,stat
+5150,math
 5151,cs
 5152,math
 5153,cs
@@ -5173,7 +5173,7 @@ id,category
 5171,cs
 5172,math
 5173,cs
-5174,cs
+5174,math
 5175,math
 5176,math
 5177,math
@@ -5226,15 +5226,15 @@ id,category
 5224,math
 5225,math
 5226,stat
-5227,cs
+5227,physics
 5228,physics
 5229,stat
 5230,cs
 5231,cs
-5232,stat
+5232,math
 5233,cs
 5234,math
-5235,stat
+5235,cs
 5236,physics
 5237,math
 5238,stat
@@ -5494,7 +5494,7 @@ id,category
 5492,math
 5493,math
 5494,math
-5495,stat
+5495,math
 5496,math
 5497,cs
 5498,math
@@ -5539,7 +5539,7 @@ id,category
 5537,cs
 5538,stat
 5539,cs
-5540,stat
+5540,physics
 5541,math
 5542,cs
 5543,cs
@@ -5577,7 +5577,7 @@ id,category
 5575,cs
 5576,math
 5577,stat
-5578,cs
+5578,stat
 5579,math
 5580,cs
 5581,math
@@ -5703,20 +5703,20 @@ id,category
 5701,physics
 5702,math
 5703,stat
-5704,stat
+5704,math
 5705,physics
 5706,cs
 5707,cs
 5708,stat
-5709,stat
+5709,cs
 5710,stat
 5711,stat
-5712,cs
+5712,math
 5713,cs
 5714,physics
 5715,stat
 5716,cs
-5717,cs
+5717,stat
 5718,math
 5719,math
 5720,cs
@@ -5739,7 +5739,7 @@ id,category
 5737,math
 5738,physics
 5739,stat
-5740,math
+5740,stat
 5741,stat
 5742,cs
 5743,physics
@@ -5770,10 +5770,10 @@ id,category
 5768,math
 5769,stat
 5770,math
-5771,cs
+5771,stat
 5772,cs
 5773,physics
-5774,stat
+5774,cs
 5775,cs
 5776,math
 5777,cs
@@ -5846,11 +5846,11 @@ id,category
 5844,math
 5845,stat
 5846,cs
-5847,cs
+5847,math
 5848,physics
 5849,cs
 5850,cs
-5851,cs
+5851,stat
 5852,math
 5853,cs
 5854,physics
@@ -5863,7 +5863,7 @@ id,category
 5861,math
 5862,math
 5863,cs
-5864,cs
+5864,stat
 5865,cs
 5866,physics
 5867,physics
@@ -5923,7 +5923,7 @@ id,category
 5921,math
 5922,stat
 5923,cs
-5924,cs
+5924,math
 5925,physics
 5926,math
 5927,cs
@@ -5985,7 +5985,7 @@ id,category
 5983,stat
 5984,cs
 5985,stat
-5986,cs
+5986,stat
 5987,physics
 5988,math
 5989,math
@@ -6020,7 +6020,7 @@ id,category
 6018,physics
 6019,math
 6020,physics
-6021,stat
+6021,cs
 6022,cs
 6023,cs
 6024,cs
@@ -6043,13 +6043,13 @@ id,category
 6041,stat
 6042,cs
 6043,cs
-6044,cs
+6044,stat
 6045,cs
 6046,physics
 6047,cs
 6048,physics
 6049,physics
-6050,stat
+6050,cs
 6051,stat
 6052,stat
 6053,physics
@@ -6083,7 +6083,7 @@ id,category
 6081,physics
 6082,stat
 6083,stat
-6084,physics
+6084,math
 6085,stat
 6086,cs
 6087,cs
@@ -6104,7 +6104,7 @@ id,category
 6102,physics
 6103,cs
 6104,stat
-6105,cs
+6105,math
 6106,cs
 6107,cs
 6108,physics
@@ -6157,7 +6157,7 @@ id,category
 6155,stat
 6156,stat
 6157,physics
-6158,cs
+6158,math
 6159,math
 6160,stat
 6161,math
@@ -6191,13 +6191,13 @@ id,category
 6189,physics
 6190,cs
 6191,stat
-6192,cs
+6192,stat
 6193,math
 6194,stat
 6195,math
 6196,math
 6197,stat
-6198,stat
+6198,physics
 6199,cs
 6200,cs
 6201,stat
@@ -6283,7 +6283,7 @@ id,category
 6281,math
 6282,cs
 6283,cs
-6284,cs
+6284,stat
 6285,cs
 6286,physics
 6287,stat
@@ -6300,7 +6300,7 @@ id,category
 6298,cs
 6299,math
 6300,physics
-6301,physics
+6301,cs
 6302,math
 6303,stat
 6304,math
@@ -6333,7 +6333,7 @@ id,category
 6331,math
 6332,stat
 6333,cs
-6334,stat
+6334,math
 6335,cs
 6336,math
 6337,cs
@@ -6558,7 +6558,7 @@ id,category
 6556,physics
 6557,physics
 6558,cs
-6559,cs
+6559,stat
 6560,stat
 6561,physics
 6562,math
@@ -6681,7 +6681,7 @@ id,category
 6679,physics
 6680,physics
 6681,math
-6682,cs
+6682,math
 6683,math
 6684,math
 6685,cs
@@ -6704,7 +6704,7 @@ id,category
 6702,math
 6703,stat
 6704,math
-6705,cs
+6705,stat
 6706,physics
 6707,math
 6708,math
@@ -6795,7 +6795,7 @@ id,category
 6793,math
 6794,cs
 6795,cs
-6796,cs
+6796,physics
 6797,math
 6798,math
 6799,physics
@@ -6916,8 +6916,8 @@ id,category
 6914,physics
 6915,physics
 6916,physics
-6917,cs
-6918,cs
+6917,physics
+6918,math
 6919,stat
 6920,physics
 6921,math
@@ -6986,7 +6986,7 @@ id,category
 6984,math
 6985,math
 6986,physics
-6987,stat
+6987,math
 6988,cs
 6989,math
 6990,cs
@@ -7057,7 +7057,7 @@ id,category
 7055,cs
 7056,cs
 7057,math
-7058,cs
+7058,physics
 7059,physics
 7060,cs
 7061,cs
@@ -7101,7 +7101,7 @@ id,category
 7099,stat
 7100,math
 7101,physics
-7102,stat
+7102,physics
 7103,math
 7104,stat
 7105,math
@@ -7123,7 +7123,7 @@ id,category
 7121,stat
 7122,math
 7123,physics
-7124,cs
+7124,stat
 7125,physics
 7126,math
 7127,stat
@@ -7131,7 +7131,7 @@ id,category
 7129,physics
 7130,cs
 7131,math
-7132,math
+7132,stat
 7133,cs
 7134,math
 7135,physics
@@ -7143,7 +7143,7 @@ id,category
 7141,math
 7142,physics
 7143,cs
-7144,math
+7144,stat
 7145,cs
 7146,physics
 7147,cs
@@ -7338,7 +7338,7 @@ id,category
 7336,cs
 7337,math
 7338,math
-7339,stat
+7339,math
 7340,math
 7341,cs
 7342,cs
@@ -7352,7 +7352,7 @@ id,category
 7350,cs
 7351,physics
 7352,cs
-7353,cs
+7353,stat
 7354,cs
 7355,math
 7356,stat
@@ -7460,7 +7460,7 @@ id,category
 7458,stat
 7459,math
 7460,cs
-7461,physics
+7461,math
 7462,math
 7463,cs
 7464,math
@@ -7471,11 +7471,11 @@ id,category
 7469,math
 7470,cs
 7471,cs
-7472,cs
+7472,stat
 7473,cs
 7474,stat
 7475,cs
-7476,math
+7476,cs
 7477,stat
 7478,physics
 7479,math
@@ -7516,7 +7516,7 @@ id,category
 7514,math
 7515,math
 7516,math
-7517,cs
+7517,stat
 7518,math
 7519,math
 7520,physics
@@ -7585,7 +7585,7 @@ id,category
 7583,math
 7584,math
 7585,math
-7586,cs
+7586,stat
 7587,stat
 7588,cs
 7589,physics
@@ -7842,7 +7842,7 @@ id,category
 7840,math
 7841,math
 7842,cs
-7843,cs
+7843,stat
 7844,math
 7845,physics
 7846,stat
@@ -7920,7 +7920,7 @@ id,category
 7918,physics
 7919,physics
 7920,math
-7921,cs
+7921,stat
 7922,stat
 7923,math
 7924,cs
@@ -7931,7 +7931,7 @@ id,category
 7929,physics
 7930,physics
 7931,math
-7932,cs
+7932,math
 7933,stat
 7934,math
 7935,physics
@@ -8165,20 +8165,20 @@ id,category
 8163,physics
 8164,cs
 8165,cs
-8166,cs
+8166,stat
 8167,physics
 8168,physics
 8169,math
 8170,physics
 8171,math
 8172,cs
-8173,physics
+8173,cs
 8174,math
 8175,math
 8176,stat
 8177,math
 8178,stat
-8179,cs
+8179,stat
 8180,cs
 8181,math
 8182,cs
@@ -8203,7 +8203,7 @@ id,category
 8201,stat
 8202,math
 8203,cs
-8204,math
+8204,stat
 8205,cs
 8206,math
 8207,cs
@@ -8458,7 +8458,7 @@ id,category
 8456,stat
 8457,math
 8458,cs
-8459,math
+8459,cs
 8460,stat
 8461,math
 8462,cs
@@ -8548,7 +8548,7 @@ id,category
 8546,cs
 8547,cs
 8548,math
-8549,math
+8549,stat
 8550,math
 8551,physics
 8552,math
@@ -8561,7 +8561,7 @@ id,category
 8559,math
 8560,cs
 8561,math
-8562,stat
+8562,cs
 8563,cs
 8564,cs
 8565,physics
@@ -8848,7 +8848,7 @@ id,category
 8846,cs
 8847,cs
 8848,cs
-8849,physics
+8849,stat
 8850,cs
 8851,math
 8852,math
@@ -8968,7 +8968,7 @@ id,category
 8966,cs
 8967,stat
 8968,stat
-8969,stat
+8969,math
 8970,math
 8971,math
 8972,math
@@ -9011,7 +9011,7 @@ id,category
 9009,cs
 9010,stat
 9011,math
-9012,stat
+9012,physics
 9013,math
 9014,cs
 9015,physics
@@ -9185,7 +9185,7 @@ id,category
 9183,math
 9184,stat
 9185,math
-9186,stat
+9186,cs
 9187,physics
 9188,stat
 9189,stat
@@ -9254,7 +9254,7 @@ id,category
 9252,math
 9253,cs
 9254,stat
-9255,stat
+9255,cs
 9256,cs
 9257,stat
 9258,stat
@@ -9359,12 +9359,12 @@ id,category
 9357,physics
 9358,math
 9359,physics
-9360,cs
+9360,stat
 9361,cs
 9362,math
 9363,cs
 9364,cs
-9365,stat
+9365,cs
 9366,cs
 9367,math
 9368,cs
@@ -9498,7 +9498,7 @@ id,category
 9496,physics
 9497,physics
 9498,math
-9499,cs
+9499,stat
 9500,math
 9501,math
 9502,physics
@@ -9594,7 +9594,7 @@ id,category
 9592,cs
 9593,physics
 9594,physics
-9595,cs
+9595,stat
 9596,physics
 9597,math
 9598,cs
@@ -9694,7 +9694,7 @@ id,category
 9692,physics
 9693,math
 9694,physics
-9695,cs
+9695,stat
 9696,math
 9697,math
 9698,cs
@@ -9733,14 +9733,14 @@ id,category
 9731,cs
 9732,physics
 9733,cs
-9734,cs
+9734,math
 9735,cs
 9736,stat
 9737,math
 9738,physics
 9739,stat
 9740,math
-9741,cs
+9741,stat
 9742,math
 9743,cs
 9744,cs
@@ -9765,7 +9765,7 @@ id,category
 9763,physics
 9764,math
 9765,stat
-9766,stat
+9766,cs
 9767,cs
 9768,physics
 9769,math
@@ -9883,7 +9883,7 @@ id,category
 9881,physics
 9882,cs
 9883,math
-9884,cs
+9884,stat
 9885,cs
 9886,cs
 9887,physics
@@ -9959,7 +9959,7 @@ id,category
 9957,stat
 9958,cs
 9959,cs
-9960,math
+9960,cs
 9961,cs
 9962,cs
 9963,stat
@@ -10012,7 +10012,7 @@ id,category
 10010,physics
 10011,math
 10012,physics
-10013,math
+10013,stat
 10014,cs
 10015,stat
 10016,math
@@ -10048,7 +10048,7 @@ id,category
 10046,math
 10047,math
 10048,cs
-10049,cs
+10049,math
 10050,cs
 10051,math
 10052,cs
@@ -10146,11 +10146,11 @@ id,category
 10144,cs
 10145,cs
 10146,physics
-10147,cs
+10147,stat
 10148,stat
 10149,stat
 10150,physics
-10151,stat
+10151,cs
 10152,cs
 10153,physics
 10154,math
@@ -10218,7 +10218,7 @@ id,category
 10216,cs
 10217,cs
 10218,cs
-10219,math
+10219,cs
 10220,math
 10221,cs
 10222,physics
@@ -10445,7 +10445,7 @@ id,category
 10443,cs
 10444,cs
 10445,math
-10446,cs
+10446,math
 10447,math
 10448,cs
 10449,cs
@@ -10550,7 +10550,7 @@ id,category
 10548,stat
 10549,math
 10550,physics
-10551,cs
+10551,math
 10552,cs
 10553,math
 10554,physics
@@ -10579,7 +10579,7 @@ id,category
 10577,math
 10578,math
 10579,math
-10580,cs
+10580,math
 10581,stat
 10582,cs
 10583,cs
@@ -10658,7 +10658,7 @@ id,category
 10656,physics
 10657,math
 10658,math
-10659,math
+10659,stat
 10660,math
 10661,stat
 10662,math
@@ -10672,7 +10672,7 @@ id,category
 10670,math
 10671,physics
 10672,math
-10673,cs
+10673,math
 10674,physics
 10675,cs
 10676,math
@@ -10702,7 +10702,7 @@ id,category
 10700,math
 10701,cs
 10702,cs
-10703,cs
+10703,physics
 10704,math
 10705,cs
 10706,math
@@ -10724,7 +10724,7 @@ id,category
 10722,math
 10723,cs
 10724,math
-10725,stat
+10725,cs
 10726,cs
 10727,cs
 10728,math
@@ -10745,7 +10745,7 @@ id,category
 10743,stat
 10744,physics
 10745,math
-10746,cs
+10746,stat
 10747,cs
 10748,cs
 10749,cs
@@ -10808,7 +10808,7 @@ id,category
 10806,physics
 10807,physics
 10808,math
-10809,stat
+10809,math
 10810,stat
 10811,stat
 10812,math
@@ -10874,10 +10874,10 @@ id,category
 10872,cs
 10873,physics
 10874,physics
-10875,cs
+10875,stat
 10876,math
 10877,stat
-10878,cs
+10878,math
 10879,math
 10880,stat
 10881,math
@@ -10997,7 +10997,7 @@ id,category
 10995,cs
 10996,math
 10997,physics
-10998,stat
+10998,cs
 10999,stat
 11000,math
 11001,cs
@@ -11125,7 +11125,7 @@ id,category
 11123,physics
 11124,math
 11125,cs
-11126,stat
+11126,math
 11127,stat
 11128,cs
 11129,math
@@ -11154,7 +11154,7 @@ id,category
 11152,math
 11153,math
 11154,cs
-11155,cs
+11155,stat
 11156,cs
 11157,cs
 11158,stat
@@ -11260,7 +11260,7 @@ id,category
 11258,physics
 11259,stat
 11260,stat
-11261,cs
+11261,stat
 11262,math
 11263,math
 11264,math
@@ -11277,8 +11277,8 @@ id,category
 11275,cs
 11276,stat
 11277,cs
-11278,cs
-11279,math
+11278,physics
+11279,physics
 11280,physics
 11281,stat
 11282,cs
@@ -11339,7 +11339,7 @@ id,category
 11337,math
 11338,stat
 11339,math
-11340,stat
+11340,cs
 11341,math
 11342,cs
 11343,math
@@ -11602,7 +11602,7 @@ id,category
 11600,physics
 11601,math
 11602,math
-11603,stat
+11603,cs
 11604,cs
 11605,physics
 11606,cs
@@ -11627,7 +11627,7 @@ id,category
 11625,cs
 11626,math
 11627,physics
-11628,stat
+11628,physics
 11629,physics
 11630,stat
 11631,physics
@@ -11684,7 +11684,7 @@ id,category
 11682,math
 11683,cs
 11684,physics
-11685,math
+11685,cs
 11686,physics
 11687,physics
 11688,math
@@ -11693,7 +11693,7 @@ id,category
 11691,physics
 11692,math
 11693,math
-11694,stat
+11694,cs
 11695,stat
 11696,math
 11697,math
@@ -11820,7 +11820,7 @@ id,category
 11818,math
 11819,stat
 11820,physics
-11821,stat
+11821,math
 11822,cs
 11823,math
 11824,math
@@ -11843,7 +11843,7 @@ id,category
 11841,math
 11842,cs
 11843,math
-11844,stat
+11844,cs
 11845,cs
 11846,cs
 11847,cs
@@ -11900,14 +11900,14 @@ id,category
 11898,math
 11899,stat
 11900,physics
-11901,cs
+11901,stat
 11902,cs
 11903,math
 11904,cs
 11905,physics
 11906,math
 11907,physics
-11908,cs
+11908,stat
 11909,physics
 11910,math
 11911,stat
@@ -11928,7 +11928,7 @@ id,category
 11926,physics
 11927,cs
 11928,cs
-11929,stat
+11929,cs
 11930,math
 11931,physics
 11932,cs
@@ -11966,14 +11966,14 @@ id,category
 11964,math
 11965,stat
 11966,cs
-11967,stat
+11967,cs
 11968,math
 11969,physics
-11970,stat
+11970,cs
 11971,math
 11972,cs
 11973,math
-11974,cs
+11974,stat
 11975,math
 11976,stat
 11977,cs
@@ -11995,7 +11995,7 @@ id,category
 11993,stat
 11994,stat
 11995,cs
-11996,cs
+11996,stat
 11997,math
 11998,physics
 11999,physics
@@ -12301,7 +12301,7 @@ id,category
 12299,cs
 12300,math
 12301,physics
-12302,stat
+12302,cs
 12303,cs
 12304,math
 12305,physics
@@ -12329,7 +12329,7 @@ id,category
 12327,math
 12328,physics
 12329,stat
-12330,stat
+12330,physics
 12331,stat
 12332,math
 12333,cs
@@ -12489,13 +12489,13 @@ id,category
 12487,physics
 12488,math
 12489,physics
-12490,math
+12490,cs
 12491,math
 12492,physics
 12493,cs
 12494,cs
 12495,cs
-12496,cs
+12496,math
 12497,physics
 12498,math
 12499,cs
@@ -12548,7 +12548,7 @@ id,category
 12546,stat
 12547,stat
 12548,cs
-12549,math
+12549,cs
 12550,physics
 12551,math
 12552,physics
@@ -12556,7 +12556,7 @@ id,category
 12554,physics
 12555,math
 12556,math
-12557,stat
+12557,cs
 12558,physics
 12559,math
 12560,physics
@@ -12622,10 +12622,10 @@ id,category
 12620,physics
 12621,physics
 12622,math
-12623,cs
+12623,physics
 12624,cs
 12625,math
-12626,stat
+12626,cs
 12627,math
 12628,stat
 12629,stat
@@ -12677,7 +12677,7 @@ id,category
 12675,physics
 12676,cs
 12677,physics
-12678,math
+12678,cs
 12679,math
 12680,stat
 12681,stat
@@ -12825,7 +12825,7 @@ id,category
 12823,cs
 12824,cs
 12825,math
-12826,cs
+12826,stat
 12827,cs
 12828,physics
 12829,cs
@@ -12929,7 +12929,7 @@ id,category
 12927,cs
 12928,cs
 12929,cs
-12930,stat
+12930,math
 12931,math
 12932,stat
 12933,physics
@@ -12938,7 +12938,7 @@ id,category
 12936,math
 12937,cs
 12938,math
-12939,cs
+12939,stat
 12940,math
 12941,math
 12942,cs
@@ -13024,7 +13024,7 @@ id,category
 13022,math
 13023,physics
 13024,cs
-13025,stat
+13025,cs
 13026,cs
 13027,cs
 13028,stat
@@ -13119,7 +13119,7 @@ id,category
 13117,physics
 13118,cs
 13119,math
-13120,cs
+13120,stat
 13121,cs
 13122,stat
 13123,cs
@@ -13129,7 +13129,7 @@ id,category
 13127,cs
 13128,math
 13129,stat
-13130,cs
+13130,stat
 13131,math
 13132,physics
 13133,cs
@@ -13209,7 +13209,7 @@ id,category
 13207,cs
 13208,physics
 13209,physics
-13210,physics
+13210,stat
 13211,math
 13212,cs
 13213,cs
@@ -13264,7 +13264,7 @@ id,category
 13262,cs
 13263,math
 13264,cs
-13265,cs
+13265,physics
 13266,cs
 13267,cs
 13268,cs
@@ -13284,12 +13284,12 @@ id,category
 13282,cs
 13283,cs
 13284,math
-13285,math
+13285,cs
 13286,stat
 13287,math
 13288,physics
-13289,cs
-13290,stat
+13289,stat
+13290,cs
 13291,cs
 13292,cs
 13293,cs
@@ -13381,7 +13381,7 @@ id,category
 13379,physics
 13380,math
 13381,math
-13382,math
+13382,stat
 13383,stat
 13384,physics
 13385,cs
@@ -13393,7 +13393,7 @@ id,category
 13391,math
 13392,physics
 13393,cs
-13394,stat
+13394,cs
 13395,cs
 13396,stat
 13397,cs
@@ -13417,7 +13417,7 @@ id,category
 13415,stat
 13416,cs
 13417,cs
-13418,cs
+13418,stat
 13419,physics
 13420,cs
 13421,cs
@@ -13437,9 +13437,9 @@ id,category
 13435,cs
 13436,cs
 13437,cs
-13438,cs
+13438,stat
 13439,math
-13440,cs
+13440,math
 13441,physics
 13442,math
 13443,math
@@ -13560,7 +13560,7 @@ id,category
 13558,cs
 13559,physics
 13560,cs
-13561,math
+13561,physics
 13562,math
 13563,cs
 13564,cs
@@ -13586,7 +13586,7 @@ id,category
 13584,physics
 13585,math
 13586,cs
-13587,cs
+13587,stat
 13588,physics
 13589,physics
 13590,math
@@ -13717,7 +13717,7 @@ id,category
 13715,math
 13716,math
 13717,cs
-13718,stat
+13718,cs
 13719,cs
 13720,stat
 13721,cs
@@ -13773,7 +13773,7 @@ id,category
 13771,stat
 13772,cs
 13773,cs
-13774,stat
+13774,cs
 13775,math
 13776,stat
 13777,cs
@@ -13847,7 +13847,7 @@ id,category
 13845,math
 13846,cs
 13847,math
-13848,stat
+13848,cs
 13849,physics
 13850,math
 13851,math
@@ -13911,18 +13911,18 @@ id,category
 13909,stat
 13910,physics
 13911,cs
-13912,physics
+13912,cs
 13913,cs
 13914,cs
 13915,physics
 13916,math
 13917,stat
 13918,physics
-13919,stat
+13919,cs
 13920,physics
 13921,math
 13922,cs
-13923,stat
+13923,cs
 13924,cs
 13925,cs
 13926,physics
@@ -13957,7 +13957,7 @@ id,category
 13955,physics
 13956,cs
 13957,stat
-13958,cs
+13958,stat
 13959,math
 13960,stat
 13961,physics
@@ -13999,7 +13999,7 @@ id,category
 13997,math
 13998,cs
 13999,physics
-14000,stat
+14000,cs
 14001,cs
 14002,cs
 14003,cs
@@ -14060,7 +14060,7 @@ id,category
 14058,math
 14059,stat
 14060,physics
-14061,math
+14061,cs
 14062,physics
 14063,cs
 14064,physics
@@ -14106,7 +14106,7 @@ id,category
 14104,cs
 14105,math
 14106,cs
-14107,stat
+14107,cs
 14108,cs
 14109,physics
 14110,cs
@@ -14283,7 +14283,7 @@ id,category
 14281,math
 14282,physics
 14283,math
-14284,stat
+14284,math
 14285,cs
 14286,cs
 14287,stat
@@ -14640,7 +14640,7 @@ id,category
 14638,cs
 14639,physics
 14640,stat
-14641,cs
+14641,physics
 14642,math
 14643,math
 14644,math
@@ -14658,7 +14658,7 @@ id,category
 14656,physics
 14657,cs
 14658,cs
-14659,stat
+14659,cs
 14660,math
 14661,cs
 14662,cs
@@ -14675,7 +14675,7 @@ id,category
 14673,math
 14674,physics
 14675,cs
-14676,stat
+14676,cs
 14677,math
 14678,math
 14679,math
@@ -14688,7 +14688,7 @@ id,category
 14686,math
 14687,math
 14688,math
-14689,cs
+14689,math
 14690,math
 14691,physics
 14692,stat
@@ -14758,7 +14758,7 @@ id,category
 14756,cs
 14757,math
 14758,cs
-14759,math
+14759,cs
 14760,physics
 14761,stat
 14762,stat
@@ -14898,7 +14898,7 @@ id,category
 14896,physics
 14897,cs
 14898,physics
-14899,cs
+14899,stat
 14900,math
 14901,math
 14902,stat
@@ -14914,14 +14914,14 @@ id,category
 14912,cs
 14913,physics
 14914,cs
-14915,cs
+14915,stat
 14916,cs
 14917,stat
-14918,stat
+14918,cs
 14919,math
 14920,stat
 14921,math
-14922,physics
+14922,stat
 14923,math
 14924,cs
 14925,physics
@@ -15013,7 +15013,7 @@ id,category
 15011,math
 15012,stat
 15013,cs
-15014,cs
+15014,math
 15015,math
 15016,stat
 15017,math
@@ -15048,7 +15048,7 @@ id,category
 15046,cs
 15047,math
 15048,math
-15049,cs
+15049,stat
 15050,math
 15051,math
 15052,stat
@@ -15079,7 +15079,7 @@ id,category
 15077,math
 15078,math
 15079,math
-15080,cs
+15080,stat
 15081,stat
 15082,physics
 15083,cs
@@ -15166,7 +15166,7 @@ id,category
 15164,cs
 15165,math
 15166,stat
-15167,physics
+15167,cs
 15168,cs
 15169,cs
 15170,cs
@@ -15216,7 +15216,7 @@ id,category
 15214,cs
 15215,math
 15216,physics
-15217,cs
+15217,stat
 15218,stat
 15219,stat
 15220,math
@@ -15231,11 +15231,11 @@ id,category
 15229,physics
 15230,cs
 15231,physics
-15232,cs
+15232,physics
 15233,cs
 15234,physics
 15235,physics
-15236,stat
+15236,cs
 15237,cs
 15238,stat
 15239,cs
@@ -15246,7 +15246,7 @@ id,category
 15244,stat
 15245,cs
 15246,physics
-15247,cs
+15247,math
 15248,physics
 15249,cs
 15250,math
@@ -15335,7 +15335,7 @@ id,category
 15333,physics
 15334,math
 15335,cs
-15336,math
+15336,cs
 15337,physics
 15338,cs
 15339,math
@@ -15380,7 +15380,7 @@ id,category
 15378,math
 15379,cs
 15380,cs
-15381,cs
+15381,stat
 15382,physics
 15383,math
 15384,physics
@@ -15389,7 +15389,7 @@ id,category
 15387,math
 15388,math
 15389,math
-15390,stat
+15390,cs
 15391,stat
 15392,physics
 15393,math
@@ -15424,7 +15424,7 @@ id,category
 15422,math
 15423,cs
 15424,math
-15425,physics
+15425,cs
 15426,cs
 15427,cs
 15428,cs
@@ -15503,7 +15503,7 @@ id,category
 15501,math
 15502,math
 15503,cs
-15504,cs
+15504,math
 15505,cs
 15506,physics
 15507,cs

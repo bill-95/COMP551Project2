@@ -14,15 +14,12 @@ target_data = []
 test_data = []
 
 #exclude = set(string.punctuation)
-exclude = set([",",".","\"","|","/","'","?","!","then","and","an","a","so","the","we"])
 
 with open('../train_in.csv', 'rt') as csvfile:
 	reader = csv.reader(csvfile, delimiter=',')
 	next(reader)
 	for row in reader:
-		s = ''.join(ch for ch in row[1] if ch not in exclude)
-		train_data.append(s.lower())
-
+		train_data.append(row[1])
 
 with open('../train_out.csv', 'rt') as csvfile:
 	reader = csv.reader(csvfile, delimiter=',')
@@ -35,8 +32,7 @@ with open('../test_in.csv', 'rt') as csvfile:
 	reader = csv.reader(csvfile, delimiter=',')
 	next(reader)
 	for row in reader:
-		s = ''.join(ch for ch in row[1] if ch not in exclude)
-		test_data.append(s.lower())
+		test_data.append(row[1])
 
 # parameters = {'clf__alpha': (1e-2, 1e-3, 1e-3),'clf__n_iter': (2, 4, 5,6,8)}
 
@@ -47,9 +43,9 @@ with open('../test_in.csv', 'rt') as csvfile:
 #                                             alpha=1e-3, n_iter=2, random_state=42)),
 # ])
 
-text_clf = Pipeline([('tfidf', TfidfVectorizer(analyzer='word', ngram_range=(1,1), min_df = 0, stop_words = 'english', max_features= 40000)),
+text_clf = Pipeline([('tfidf', TfidfVectorizer(analyzer='word', ngram_range=(1,1), min_df = 0, stop_words = 'english', max_features= 40000, lowercase = False)),
                       ('clf', SGDClassifier(loss='hinge', penalty='l2',
-                                            alpha=1e-3, n_iter=2, random_state=42)),
+                                            alpha=1e-3, n_iter=4, random_state=42)),
 ])
 
 _ = text_clf.fit(train_data, target_data)
